@@ -6,3 +6,6 @@ Assignment 2: 100/100<br />
 Assignment 3:  96/100<br />
 Assignment 4: 100/100<br />
 Assignment 5: 100/100<br />
+Assignment 6: 100/100<br />
+<br />
+Project: 96/100<br />
