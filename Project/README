@@ -1,0 +1,25 @@
+README
+
+I modified the conf.py a little bit.
+(1) I use my own API key:
+
+
+(2) The server names in conf.py downloaded from CCLE are all in uppercase.
+However, on the spec, a valid server name should contain only one uppercase
+letter and this letter should be at the beginning of the server name.
+For example, "Alford" is valid, but "ALFORD" is not.
+
+Therefore, I change:
+ALFORD to Alford
+BALL to Ball
+HAMILTON to Hamilton
+HOLIDAY to Holiday
+WELSH to Welsh
+
+(3) I use the port numbers that are assigned to me:
+12088 <= PORT <= 12095
+Alford: 12090
+Ball: 12091
+Hamilton: 12092
+Holiday: 12093
+Welsh: 12094
